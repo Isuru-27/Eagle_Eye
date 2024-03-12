@@ -18,7 +18,7 @@ Make sure you have the following libraries installed:
 1. Clone the repository:
 
     ```bash
-    git clone <(https://github.com/Isuru-27/Eagle_Eye)>
+    git clone (https://github.com/Isuru-27/Eagle_Eye)
     ```
 
 2. Navigate to the directory:
