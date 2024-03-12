@@ -38,5 +38,5 @@ Make sure you have the following libraries installed:
 
 ## Author
 
-[Your Name](https://github.com/Isuru-27)
+[Isuru D Rajamanthri](https://github.com/Isuru-27)
 
