@@ -33,7 +33,7 @@ Make sure you have the following libraries installed:
 
 ## Notes
 
-- The reference image for comparison should be named `p2.jpg` and placed in the same directory as the script.
+- The reference image for comparison should be named `You uploaded Photo` and placed in the same directory as the script.
 - Press the 'q' key to exit the script.
 
 ## Author
