@@ -2,7 +2,7 @@
 
 This Python script demonstrates real-time face recognition using OpenCV and the Face Recognition library. It compares the face captured from a webcam feed with a reference image loaded from a file.
 <br>
-![Capture](https://github.com/Isuru-27/Eagle_Eye/assets/139687227/4f62cd67-fe93-4d3f-9e85-cd109028b9ef)
+
 
 ## Prerequisites
 
