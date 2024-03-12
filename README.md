@@ -1,4 +1,5 @@
-# Real-time Face Recognition with OpenCV and Face Recognition Library(# Eagle_Eye)
+# Real-time Face Recognition with OpenCV and Face Recognition Library
+(# Eagle_Eye)
 
 This Python script demonstrates real-time face recognition using OpenCV and the Face Recognition library. It compares the face captured from a webcam feed with a reference image loaded from a file.
 <br><br>
